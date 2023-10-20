@@ -30488,11 +30488,11 @@ const A_ = Ha(xa.BUTTON), ND = Vt("button", {
         !u || (o == null || o(u), h(""));
       }
     }), e && /* @__PURE__ */ Ca(XD, {
-      children: ["Powered by influencer", /* @__PURE__ */ vt("a", {
+      children: ["Powered by", /* @__PURE__ */ vt("a", {
         target: "_blank",
-        href: "https://kit.ai",
+        href: "https://influencerkit.ai",
         rel: "noreferrer",
-        children: "kit.ai"
+        children: "influencerkit.ai"
       })]
     })]
   });
